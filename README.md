@@ -17,3 +17,4 @@ This Python Desctop Application made by using PySide6 technology. Was carried ou
 ## Setup
 
 To build the project you must have a PyQt's librarys.
+Or i need push exe apllication file.
